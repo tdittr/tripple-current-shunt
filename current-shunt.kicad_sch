@@ -3304,7 +3304,7 @@
       (reference "D36") (unit 1) (value "LED") (footprint "LED_SMD:LED_0603_1608Metric")
     )
     (path "/f44d04c5-0d17-4d52-8328-ef3b4fdfba5f/a82cc152-d30e-40b2-9e4e-82bb1a5767f8"
-      (reference "F1") (unit 1) (value "Fuse") (footprint "R-Manganin:IMaxx H7810")
+      (reference "F1") (unit 1) (value "Fuse") (footprint "Project_Footprints:iMaXX-H7810")
     )
     (path "/f44d04c5-0d17-4d52-8328-ef3b4fdfba5f/86337d21-21ff-41d9-b410-84c294e6d4c7"
       (reference "F2") (unit 1) (value "Fuse_Small") (footprint "Fuse:Fuse_1206_3216Metric_Pad1.42x1.75mm_HandSolder")
@@ -3313,7 +3313,7 @@
       (reference "F3") (unit 1) (value "Fuse_Small") (footprint "Fuse:Fuse_1206_3216Metric_Pad1.42x1.75mm_HandSolder")
     )
     (path "/d48b6d2e-6e5f-4dac-a79e-e9dd99372c0a/a82cc152-d30e-40b2-9e4e-82bb1a5767f8"
-      (reference "F4") (unit 1) (value "Fuse") (footprint "R-Manganin:IMaxx H7810")
+      (reference "F4") (unit 1) (value "Fuse") (footprint "Project_Footprints:iMaXX-H7810")
     )
     (path "/d48b6d2e-6e5f-4dac-a79e-e9dd99372c0a/86337d21-21ff-41d9-b410-84c294e6d4c7"
       (reference "F5") (unit 1) (value "Fuse_Small") (footprint "Fuse:Fuse_1206_3216Metric_Pad1.42x1.75mm_HandSolder")
@@ -3322,7 +3322,7 @@
       (reference "F6") (unit 1) (value "Fuse_Small") (footprint "Fuse:Fuse_1206_3216Metric_Pad1.42x1.75mm_HandSolder")
     )
     (path "/34fb8779-9a92-44ba-b6c9-7eaf7f2a97bd/a82cc152-d30e-40b2-9e4e-82bb1a5767f8"
-      (reference "F7") (unit 1) (value "Fuse") (footprint "R-Manganin:IMaxx H7810")
+      (reference "F7") (unit 1) (value "Fuse") (footprint "Project_Footprints:iMaXX-H7810")
     )
     (path "/34fb8779-9a92-44ba-b6c9-7eaf7f2a97bd/86337d21-21ff-41d9-b410-84c294e6d4c7"
       (reference "F8") (unit 1) (value "Fuse_Small") (footprint "Fuse:Fuse_1206_3216Metric_Pad1.42x1.75mm_HandSolder")
@@ -3376,13 +3376,13 @@
       (reference "H10") (unit 1) (value "MountingHole_Pad") (footprint "MountingHole:MountingHole_3.2mm_M3_Pad_Via")
     )
     (path "/f44d04c5-0d17-4d52-8328-ef3b4fdfba5f/e7d456c1-655e-4601-ad16-8efb941d4705"
-      (reference "J1") (unit 1) (value "Screw_Terminal_01x03") (footprint "R-Manganin:My-2604-1103")
+      (reference "J1") (unit 1) (value "Screw_Terminal_01x03") (footprint "Project_Footprints:Wago_2604-1103")
     )
     (path "/d48b6d2e-6e5f-4dac-a79e-e9dd99372c0a/e7d456c1-655e-4601-ad16-8efb941d4705"
-      (reference "J2") (unit 1) (value "Screw_Terminal_01x03") (footprint "R-Manganin:My-2604-1103")
+      (reference "J2") (unit 1) (value "Screw_Terminal_01x03") (footprint "Project_Footprints:Wago_2604-1103")
     )
     (path "/34fb8779-9a92-44ba-b6c9-7eaf7f2a97bd/e7d456c1-655e-4601-ad16-8efb941d4705"
-      (reference "J3") (unit 1) (value "Screw_Terminal_01x03") (footprint "R-Manganin:My-2604-1103")
+      (reference "J3") (unit 1) (value "Screw_Terminal_01x03") (footprint "Project_Footprints:Wago_2604-1103")
     )
     (path "/26f6f6cd-83c2-4ec5-aed9-86dfa4bf4b4a"
       (reference "J4") (unit 1) (value "Conn_01x02") (footprint "TerminalBlock_MetzConnect:TerminalBlock_MetzConnect_Type094_RT03502HBLU_1x02_P5.00mm_Horizontal")
@@ -3478,10 +3478,10 @@
       (reference "R7") (unit 1) (value "10R") (footprint "Resistor_SMD:R_1206_3216Metric")
     )
     (path "/f44d04c5-0d17-4d52-8328-ef3b4fdfba5f/5099d47c-4773-4368-8268-3b8810e2f9a4"
-      (reference "R8") (unit 1) (value "R_Shunt") (footprint "R-Manganin:SIP")
+      (reference "R8") (unit 1) (value "R_Shunt") (footprint "Project_Footprints:R_Shunt_Isabellenhuette_PBV")
     )
     (path "/f44d04c5-0d17-4d52-8328-ef3b4fdfba5f/0d5815f6-28a9-467e-b51f-2cbe47189f59"
-      (reference "R9") (unit 1) (value "R") (footprint "R-Manganin:Dual-2512-1206-Handsolder")
+      (reference "R9") (unit 1) (value "R") (footprint "Project_Footprints:R_Dual_2512_1206_Handsolder")
     )
     (path "/f44d04c5-0d17-4d52-8328-ef3b4fdfba5f/8d2284b7-e2fb-40a4-9ef5-cd379b4a421e"
       (reference "R10") (unit 1) (value "2k") (footprint "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder")
@@ -3505,10 +3505,10 @@
       (reference "R16") (unit 1) (value "10R") (footprint "Resistor_SMD:R_1206_3216Metric")
     )
     (path "/d48b6d2e-6e5f-4dac-a79e-e9dd99372c0a/5099d47c-4773-4368-8268-3b8810e2f9a4"
-      (reference "R17") (unit 1) (value "R_Shunt") (footprint "R-Manganin:SIP")
+      (reference "R17") (unit 1) (value "R_Shunt") (footprint "Project_Footprints:R_Shunt_Isabellenhuette_PBV")
     )
     (path "/d48b6d2e-6e5f-4dac-a79e-e9dd99372c0a/0d5815f6-28a9-467e-b51f-2cbe47189f59"
-      (reference "R18") (unit 1) (value "R") (footprint "R-Manganin:Dual-2512-1206-Handsolder")
+      (reference "R18") (unit 1) (value "R") (footprint "Project_Footprints:R_Dual_2512_1206_Handsolder")
     )
     (path "/d48b6d2e-6e5f-4dac-a79e-e9dd99372c0a/8d2284b7-e2fb-40a4-9ef5-cd379b4a421e"
       (reference "R19") (unit 1) (value "2k") (footprint "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder")
@@ -3532,10 +3532,10 @@
       (reference "R25") (unit 1) (value "10R") (footprint "Resistor_SMD:R_1206_3216Metric")
     )
     (path "/34fb8779-9a92-44ba-b6c9-7eaf7f2a97bd/5099d47c-4773-4368-8268-3b8810e2f9a4"
-      (reference "R26") (unit 1) (value "R_Shunt") (footprint "R-Manganin:SIP")
+      (reference "R26") (unit 1) (value "R_Shunt") (footprint "Project_Footprints:R_Shunt_Isabellenhuette_PBV")
     )
     (path "/34fb8779-9a92-44ba-b6c9-7eaf7f2a97bd/0d5815f6-28a9-467e-b51f-2cbe47189f59"
-      (reference "R27") (unit 1) (value "R") (footprint "R-Manganin:Dual-2512-1206-Handsolder")
+      (reference "R27") (unit 1) (value "R") (footprint "Project_Footprints:R_Dual_2512_1206_Handsolder")
     )
     (path "/34fb8779-9a92-44ba-b6c9-7eaf7f2a97bd/8d2284b7-e2fb-40a4-9ef5-cd379b4a421e"
       (reference "R28") (unit 1) (value "2k") (footprint "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder")

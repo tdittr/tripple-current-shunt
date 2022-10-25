@@ -347,7 +347,7 @@
   },
   "libraries": {
     "pinned_footprint_libs": [
-      "R-Manganin"
+      "Project_Footprints"
     ],
     "pinned_symbol_libs": []
   },
