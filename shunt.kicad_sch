@@ -1886,7 +1886,7 @@
   )
 
   (symbol (lib_id "Jumper:SolderJumper_2_Open") (at 138.43 50.8 0) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom no) (on_board yes) (fields_autoplaced)
     (uuid 40732c69-12da-4ef0-8364-b10968db76c0)
     (property "Reference" "JP1" (id 0) (at 138.43 46.99 0))
     (property "Value" "SolderJumper_2_Open" (id 1) (at 138.43 46.99 0)
@@ -2103,7 +2103,7 @@
   )
 
   (symbol (lib_id "Jumper:SolderJumper_2_Open") (at 138.43 63.5 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 62338226-0fdc-4613-b7a5-c618e2579787)
     (property "Reference" "JP2" (id 0) (at 138.43 67.31 0))
     (property "Value" "SolderJumper_2_Open" (id 1) (at 138.43 59.69 0)
