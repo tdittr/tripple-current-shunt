@@ -1,0 +1,21 @@
+(footprint "JLCPCB_Order_No" (version 20211014) (generator pcbnew)
+  (layer "F.Cu")
+  (tedit 0)
+  (attr board_only exclude_from_pos_files exclude_from_bom)
+  (fp_text reference "REF**" (at 0 -0.5 unlocked) (layer "F.SilkS") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 9effe7c7-948f-49a2-90c9-9a132918e046)
+  )
+  (fp_text value "JLCPCB_Order_No" (at 0 1 unlocked) (layer "F.Fab") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp bda941db-8fe4-4899-84d4-b513f477e33a)
+  )
+  (fp_text user "JLCJLCJLCJLC" (at 0 0 unlocked) (layer "F.SilkS")
+    (effects (font (size 0.8 0.8) (thickness 0.15)))
+    (tstamp 25f9f5a3-b9c5-4453-a1cc-a7c125a08e99)
+  )
+  (fp_text user "${REFERENCE}" (at 0 2.5 unlocked) (layer "F.Fab") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp d15b7239-21f3-4960-9f40-6e5d4cc15af6)
+  )
+)
