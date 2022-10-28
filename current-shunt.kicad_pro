@@ -481,5 +481,8 @@
       "i2c-interface"
     ]
   ],
-  "text_variables": {}
+  "text_variables": {
+    "DATE": "2022-10-28",
+    "REV": "rev1"
+  }
 }

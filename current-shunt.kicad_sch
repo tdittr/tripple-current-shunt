@@ -2508,7 +2508,7 @@
     (property "Reference" "D35" (id 0) (at 146.05 138.4299 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "P4SMAJ20CA" (id 1) (at 146.05 140.9699 90)
+    (property "Value" "SMAJ20CA" (id 1) (at 146.05 140.9699 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Footprint" "Diode_SMD:D_SMA" (id 2) (at 143.51 139.7 0)
@@ -2517,7 +2517,7 @@
     (property "Datasheet" "~" (id 3) (at 143.51 139.7 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "LCSC Part #" "C391567" (id 4) (at 143.51 139.7 0)
+    (property "LCSC Part #" "C309871" (id 4) (at 143.51 139.7 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 536dd9cf-ef62-4801-ba46-2ded5c0c8c6f))
@@ -3232,10 +3232,10 @@
       (reference "D3") (unit 1) (value "PMEG4010BEA") (footprint "Diode_SMD:D_SOD-323F")
     )
     (path "/f44d04c5-0d17-4d52-8328-ef3b4fdfba5f/59c73eef-4962-4d24-9a04-69e3d09db436"
-      (reference "D4") (unit 1) (value "P4SMAJ20CA") (footprint "Diode_SMD:D_SMA")
+      (reference "D4") (unit 1) (value "SMAJ20CA") (footprint "Diode_SMD:D_SMA")
     )
     (path "/f44d04c5-0d17-4d52-8328-ef3b4fdfba5f/7cc5242b-a8f2-4f7d-90af-3a489294befc"
-      (reference "D5") (unit 1) (value "P4SMAJ20CA") (footprint "Diode_SMD:D_SMA")
+      (reference "D5") (unit 1) (value "SMAJ20CA") (footprint "Diode_SMD:D_SMA")
     )
     (path "/f44d04c5-0d17-4d52-8328-ef3b4fdfba5f/351b34e2-ef42-4c15-994d-be327ac81d00"
       (reference "D6") (unit 1) (value "PMEG4010BEA") (footprint "Diode_SMD:D_SOD-323F")
@@ -3244,7 +3244,7 @@
       (reference "D7") (unit 1) (value "PMEG4010BEA") (footprint "Diode_SMD:D_SOD-323F")
     )
     (path "/f44d04c5-0d17-4d52-8328-ef3b4fdfba5f/3d87b7d0-0327-4a61-b85c-7794ea82c7dd"
-      (reference "D8") (unit 1) (value "P4SMAJ20CA") (footprint "Diode_SMD:D_SMA")
+      (reference "D8") (unit 1) (value "SMAJ20CA") (footprint "Diode_SMD:D_SMA")
     )
     (path "/f44d04c5-0d17-4d52-8328-ef3b4fdfba5f/2607000a-a698-4750-b27a-e04092e1207c"
       (reference "D9") (unit 1) (value "BZX84C 4V7") (footprint "Diode_SMD:D_SOT-23_ANK")
@@ -3265,10 +3265,10 @@
       (reference "D14") (unit 1) (value "PMEG4010BEA") (footprint "Diode_SMD:D_SOD-323F")
     )
     (path "/d48b6d2e-6e5f-4dac-a79e-e9dd99372c0a/59c73eef-4962-4d24-9a04-69e3d09db436"
-      (reference "D15") (unit 1) (value "P4SMAJ20CA") (footprint "Diode_SMD:D_SMA")
+      (reference "D15") (unit 1) (value "SMAJ20CA") (footprint "Diode_SMD:D_SMA")
     )
     (path "/d48b6d2e-6e5f-4dac-a79e-e9dd99372c0a/7cc5242b-a8f2-4f7d-90af-3a489294befc"
-      (reference "D16") (unit 1) (value "P4SMAJ20CA") (footprint "Diode_SMD:D_SMA")
+      (reference "D16") (unit 1) (value "SMAJ20CA") (footprint "Diode_SMD:D_SMA")
     )
     (path "/d48b6d2e-6e5f-4dac-a79e-e9dd99372c0a/351b34e2-ef42-4c15-994d-be327ac81d00"
       (reference "D17") (unit 1) (value "PMEG4010BEA") (footprint "Diode_SMD:D_SOD-323F")
@@ -3277,7 +3277,7 @@
       (reference "D18") (unit 1) (value "PMEG4010BEA") (footprint "Diode_SMD:D_SOD-323F")
     )
     (path "/d48b6d2e-6e5f-4dac-a79e-e9dd99372c0a/3d87b7d0-0327-4a61-b85c-7794ea82c7dd"
-      (reference "D19") (unit 1) (value "P4SMAJ20CA") (footprint "Diode_SMD:D_SMA")
+      (reference "D19") (unit 1) (value "SMAJ20CA") (footprint "Diode_SMD:D_SMA")
     )
     (path "/d48b6d2e-6e5f-4dac-a79e-e9dd99372c0a/2607000a-a698-4750-b27a-e04092e1207c"
       (reference "D20") (unit 1) (value "BZX84C 4V7") (footprint "Diode_SMD:D_SOT-23_ANK")
@@ -3298,10 +3298,10 @@
       (reference "D25") (unit 1) (value "PMEG4010BEA") (footprint "Diode_SMD:D_SOD-323F")
     )
     (path "/34fb8779-9a92-44ba-b6c9-7eaf7f2a97bd/59c73eef-4962-4d24-9a04-69e3d09db436"
-      (reference "D26") (unit 1) (value "P4SMAJ20CA") (footprint "Diode_SMD:D_SMA")
+      (reference "D26") (unit 1) (value "SMAJ20CA") (footprint "Diode_SMD:D_SMA")
     )
     (path "/34fb8779-9a92-44ba-b6c9-7eaf7f2a97bd/7cc5242b-a8f2-4f7d-90af-3a489294befc"
-      (reference "D27") (unit 1) (value "P4SMAJ20CA") (footprint "Diode_SMD:D_SMA")
+      (reference "D27") (unit 1) (value "SMAJ20CA") (footprint "Diode_SMD:D_SMA")
     )
     (path "/34fb8779-9a92-44ba-b6c9-7eaf7f2a97bd/351b34e2-ef42-4c15-994d-be327ac81d00"
       (reference "D28") (unit 1) (value "PMEG4010BEA") (footprint "Diode_SMD:D_SOD-323F")
@@ -3310,7 +3310,7 @@
       (reference "D29") (unit 1) (value "PMEG4010BEA") (footprint "Diode_SMD:D_SOD-323F")
     )
     (path "/34fb8779-9a92-44ba-b6c9-7eaf7f2a97bd/3d87b7d0-0327-4a61-b85c-7794ea82c7dd"
-      (reference "D30") (unit 1) (value "P4SMAJ20CA") (footprint "Diode_SMD:D_SMA")
+      (reference "D30") (unit 1) (value "SMAJ20CA") (footprint "Diode_SMD:D_SMA")
     )
     (path "/34fb8779-9a92-44ba-b6c9-7eaf7f2a97bd/2607000a-a698-4750-b27a-e04092e1207c"
       (reference "D31") (unit 1) (value "BZX84C 4V7") (footprint "Diode_SMD:D_SOT-23_ANK")
@@ -3325,7 +3325,7 @@
       (reference "D34") (unit 1) (value "M7") (footprint "Diode_SMD:D_SMA")
     )
     (path "/fa265de3-9aff-4613-b7d2-c7fb14137be3"
-      (reference "D35") (unit 1) (value "P4SMAJ20CA") (footprint "Diode_SMD:D_SMA")
+      (reference "D35") (unit 1) (value "SMAJ20CA") (footprint "Diode_SMD:D_SMA")
     )
     (path "/4395cfcd-528b-4ec6-ae6a-a96097a24238"
       (reference "D36") (unit 1) (value "LED") (footprint "LED_SMD:LED_0603_1608Metric")
