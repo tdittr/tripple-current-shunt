@@ -44,7 +44,7 @@
         "silk_text_thickness": 0.15,
         "silk_text_upright": false,
         "zones": {
-          "45_degree_only": true,
+          "45_degree_only": false,
           "min_clearance": 0.508
         }
       },
@@ -482,7 +482,7 @@
     ]
   ],
   "text_variables": {
-    "DATE": "2022-10-28",
-    "REV": "rev1"
+    "DATE": "2022-11-11",
+    "REV": "rev2"
   }
 }
