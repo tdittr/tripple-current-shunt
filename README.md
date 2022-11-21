@@ -24,20 +24,24 @@ footprint also fits the connector and pin-out
 of [Seedstudios Grove System](https://wiki.seeedstudio.com/Grove_System/#grove-i2c). The two connectors are wired in
 parallel to allow for daisy-chaining. The power is also supplied via this connector (from rev2 onwards).
 
+**Note on using Grove Connectors:** The 90 degree version of the grove connector seem to count their pins from right to
+left - so inverse to how JST counts their pins. To use the Grove connectors you can either mount them on the backside of
+the board or use the upright connectors with the clip facing to the edge of the board.
+
 #### I2C Addresses
 
 The six I2C slaves on the board are configured to follow a schema where the lowest two bits of the address are defined
 per board. This allows usage of up to four boards with a total of 12 channels on a single bus. The individual addresses
 are listed below. *xx* marks the bits set via jumpers (see screenshot below).
 
-| Device      | Address      |
-|-------------|--------------|
-| MCP9808     | 0b001_10*xx* |
-| INA219 Ch A | 0b100_00*xx* |
-| INA219 Ch B | 0b100_01*xx* |
-| ADS1015     | 0b100_10*xx* |
-| INA219 Ch C | 0b100_11*xx* |
-| M24C02      | 0b101_10*xx* |
+| Device      | Address Pattern | Board 0 | Board 1 | Board 2 | Board 3 |
+|-------------|-----------------|---------|---------|---------|---------|
+| MCP9808     | 0b001_10*xx*    | 0x18    | 0x19    | 0x1a    | 0x1b    |
+| INA219 Ch A | 0b100_00*xx*    | 0x40    | 0x41    | 0x42    | 0x43    |
+| INA219 Ch B | 0b100_01*xx*    | 0x44    | 0x45    | 0x46    | 0x47    |
+| ADS1015     | 0b100_10*xx*    | 0x48    | 0x49    | 0x4a    | 0x4b    |
+| INA219 Ch C | 0b100_11*xx*    | 0x4c    | 0x4d    | 0x4e    | 0x4f    |
+| M24C02      | 0b101_10*xx*    | 0x58    | 0x59    | 0x5a    | 0x5b    |
 
 | ![Address selection jumpers screenshot](doc/address-selection.jpg)                                                                                                                                     |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
