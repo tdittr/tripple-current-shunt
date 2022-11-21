@@ -1448,7 +1448,7 @@
     (property "Value" "R" (id 1) (at 124.46 58.4199 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Project_Footprints:R_Dual_2512_1206_Handsolder" (id 2) (at 120.142 57.15 90)
+    (property "Footprint" "Resistor_SMD:R_2816_7142Metric_Pad3.20x4.45mm_HandSolder" (id 2) (at 120.142 57.15 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 121.92 57.15 0)
