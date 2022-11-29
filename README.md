@@ -41,7 +41,7 @@ are listed below. *xx* marks the bits set via jumpers (see screenshot below).
 | INA219 Ch B | 0b100_01*xx*    | 0x44    | 0x45    | 0x46    | 0x47    |
 | ADS1015     | 0b100_10*xx*    | 0x48    | 0x49    | 0x4a    | 0x4b    |
 | INA219 Ch C | 0b100_11*xx*    | 0x4c    | 0x4d    | 0x4e    | 0x4f    |
-| M24C02      | 0b101_10*xx*    | 0x58    | 0x59    | 0x5a    | 0x5b    |
+| M24C02      | 0b101_00*xx*    | 0x50    | 0x51    | 0x52    | 0x53    |
 
 | ![Address selection jumpers screenshot](doc/address-selection.jpg)                                                                                                                                     |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
